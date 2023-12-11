@@ -17,9 +17,7 @@ export default function FeedLayout({
          >
              <Sidebar/>
          </div>
-         {/* <div className="w-[100%]"> */}
          {children}  
-         {/* </div>     */}
 
     </div>
     </div>
